@@ -24,7 +24,7 @@
 
 ### `[ ~/arsenal ]`
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,js,bash&theme=dark" height="48" /> <img src="assets/owasp.png" height="48" />
+<img src="assets/owasp.png" height="48" />  <img src="https://skillicons.dev/icons?i=laravel,vue,js,bash&theme=dark" height="48" /> 
 
 <br><br>
 
