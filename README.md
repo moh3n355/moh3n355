@@ -16,7 +16,7 @@
 
   [+] name     : moh3n
   [+] focus    : cybersecurity, web penetration testing
-  [+] target    : bug bounty
+  [+] target   : bug bounty
   [+] status   : learning...
 ```
 
