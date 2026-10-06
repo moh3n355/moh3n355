@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=130&section=header" width="100%" />
 
 <a href="https://github.com/moh3n355">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=560&height=45&lines=%24+whoami;Hi,+I'm+moh3n;Bug+Hunter+%7C+Web+Penetration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=560&height=45&lines=%24+whoami;Hi,+I'm+moh3n;Into+Cybersecurity+%7C+Web+Penetration" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,8 +16,8 @@
 
   [+] name     : moh3n
   [+] focus    : cybersecurity, web penetration testing
-  [+] hobby    : bug bounty
-  [+] status   : hunting...
+  [+] target    : bug bounty
+  [+] status   : learning...
 ```
 
 <div align="center">
