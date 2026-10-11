@@ -15,7 +15,7 @@
 └─$ cat about.txt
 
   [+] name     : moh3n
-  [+] focus    : cybersecurity, web penetration testing
+  [+] focus    : cybersecurity, web penetration 
   [+] target   : bug bounty
   [+] status   : learninig...
 ```
